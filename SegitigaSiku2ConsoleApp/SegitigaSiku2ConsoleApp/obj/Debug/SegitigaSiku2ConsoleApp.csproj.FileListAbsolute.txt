@@ -1,0 +1,6 @@
+C:\Users\Lenovo\source\repos\SegitigaSiku2ConsoleApp\SegitigaSiku2ConsoleApp\bin\Debug\SegitigaSiku2ConsoleApp.exe.config
+C:\Users\Lenovo\source\repos\SegitigaSiku2ConsoleApp\SegitigaSiku2ConsoleApp\bin\Debug\SegitigaSiku2ConsoleApp.exe
+C:\Users\Lenovo\source\repos\SegitigaSiku2ConsoleApp\SegitigaSiku2ConsoleApp\bin\Debug\SegitigaSiku2ConsoleApp.pdb
+C:\Users\Lenovo\source\repos\SegitigaSiku2ConsoleApp\SegitigaSiku2ConsoleApp\obj\Debug\SegitigaSiku2ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Lenovo\source\repos\SegitigaSiku2ConsoleApp\SegitigaSiku2ConsoleApp\obj\Debug\SegitigaSiku2ConsoleApp.exe
+C:\Users\Lenovo\source\repos\SegitigaSiku2ConsoleApp\SegitigaSiku2ConsoleApp\obj\Debug\SegitigaSiku2ConsoleApp.pdb
